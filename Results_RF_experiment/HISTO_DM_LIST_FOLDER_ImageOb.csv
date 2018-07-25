@@ -1,0 +1,73 @@
+File Name,Feeding,ZT,Mouse,Sample,Experience ,NO,Date of Exp 
+Image _01,ad-libitum,0,R-F_AL_Ob_ZT_00_,Ob_1,1,1,06_2014
+Image _02,ad-libitum,4,R-F_AL_Ob_ZT_04_,Ob_2,1,2,06_2014
+Image _03,ad-libitum,8,R-F_AL_Ob_ZT_08_,Ob_3,1,3,06_2014
+Image _04,ad-libitum,12,R-F_AL_Ob_ZT_12_,Ob_4,1,4,06_2014
+Image _05,ad-libitum,16,R-F_AL_Ob_ZT_16_,Ob_5,1,5,06_2014
+Image _06,ad-libitum,20,R-F_AL_Ob_ZT_20_,Ob_6,1,6,06_2014
+Image _07,ad-libitum,24,R-F_AL_Ob_ZT_24_,Ob_7,1,7,06_2014
+Image _08,ad-libitum,28,R-F_AL_Ob_ZT_28_,Ob_8,1,8,06_2014
+Image _09,ad-libitum,32,R-F_AL_Ob_ZT_32_,Ob_9,1,9,06_2014
+Image _10,ad-libitum,36,R-F_AL_Ob_ZT_36_,Ob_10,1,10,06_2014
+Image _11,ad-libitum,40,R-F_AL_Ob_ZT_40_,Ob_11,1,11,06_2014
+Image _12,ad-libitum,44,R-F_AL_Ob_ZT_44_,Ob_12,1,12,06_2014
+Image _13,Day (ZT2-ZT10),0,R-F_D_Ob_ZT_00_,Ob_13,1,13,06_2014
+Image _14,Day (ZT2-ZT10),4,R-F_D_Ob_ZT_04_,Ob_14,1,14,06_2014
+Image _15,Day (ZT2-ZT10),8,R-F_D_Ob_ZT_08_,Ob_15,1,15,06_2014
+Image _16,Day (ZT2-ZT10),12,R-F_D_Ob_ZT_12_,Ob_16,1,16,06_2014
+Image _17,Day (ZT2-ZT10),16,R-F_D_Ob_ZT_16_,Ob_17,1,17,06_2014
+Image _18,Day (ZT2-ZT10),20,R-F_D_Ob_ZT_20_,Ob_18,1,18,06_2014
+Image _19,Day (ZT2-ZT10),24,R-F_D_Ob_ZT_24_,Ob_19,1,19,06_2014
+Image _20,Day (ZT2-ZT10),28,R-F_D_Ob_ZT_28_,Ob_20,1,20,06_2014
+Image _21,Day (ZT2-ZT10),32,R-F_D_Ob_ZT_32_,Ob_21,1,21,06_2014
+Image _22,Day (ZT2-ZT10),36,R-F_D_Ob_ZT_36_,Ob_22,1,22,06_2014
+Image _23,Day (ZT2-ZT10),40,R-F_D_Ob_ZT_40_,Ob_23,1,23,06_2014
+Image _24,Day (ZT2-ZT10),44,R-F_D_Ob_ZT_44_,Ob_24,1,24,06_2014
+Image _25,Night (ZT14-ZT22),0,R-F_N_Ob_ZT_00_,Ob_25,1,25,06_2014
+Image _26,Night (ZT14-ZT22),4,R-F_N_Ob_ZT_04_,Ob_26,1,26,06_2014
+Image _27,Night (ZT14-ZT22),8,R-F_N_Ob_ZT_08_,Ob_27,1,27,06_2014
+Image _28,Night (ZT14-ZT22),12,R-F_N_Ob_ZT_12_,Ob_28,1,28,06_2014
+Image _29,Night (ZT14-ZT22),16,R-F_N_Ob_ZT_16_,Ob_29,1,29,06_2014
+Image _30,Night (ZT14-ZT22),20,R-F_N_Ob_ZT_20_,Ob_30,1,30,06_2014
+Image _31,Night (ZT14-ZT22),24,R-F_N_Ob_ZT_24_,Ob_31,1,31,06_2014
+Image _32,Night (ZT14-ZT22),28,R-F_N_Ob_ZT_28_,Ob_32,1,32,06_2014
+Image _33,Night (ZT14-ZT22),32,R-F_N_Ob_ZT_32_,Ob_33,1,33,06_2014
+Image _34,Night (ZT14-ZT22),36,R-F_N_Ob_ZT_36_,Ob_34,1,34,06_2014
+Image _35,Night (ZT14-ZT22),40,R-F_N_Ob_ZT_40_,Ob_35,1,35,06_2014
+Image _36,Night (ZT14-ZT22),44,R-F_N_Ob_ZT_44_,Ob_36,1,36,06_2014
+Image _37,ad-libitum,0,R-F_AL_Ob_ZT_00_,Ob_1,2,1,02_2015
+Image _38,ad-libitum,4,R-F_AL_Ob_ZT_04_,Ob_2,2,2,02_2015
+Image _39,ad-libitum,8,R-F_AL_Ob_ZT_08_,Ob_3,2,3,02_2015
+Image _40,ad-libitum,12,R-F_AL_Ob_ZT_12_,Ob_4,2,4,02_2015
+Image _41,ad-libitum,16,R-F_AL_Ob_ZT_16_,Ob_5,2,5,02_2015
+Image _42,ad-libitum,20,R-F_AL_Ob_ZT_20_,Ob_6,2,6,02_2015
+Image _43,ad-libitum,24,R-F_AL_Ob_ZT_24_,Ob_7,2,7,02_2015
+Image _44,ad-libitum,28,R-F_AL_Ob_ZT_28_,Ob_8,2,8,02_2015
+Image _45,ad-libitum,32,R-F_AL_Ob_ZT_32_,Ob_9,2,9,02_2015
+Image _46,ad-libitum,36,R-F_AL_Ob_ZT_36_,Ob_10,2,10,02_2015
+Image _47,ad-libitum,40,R-F_AL_Ob_ZT_40_,Ob_11,2,11,02_2015
+Image _48,ad-libitum,44,R-F_AL_Ob_ZT_44_,Ob_12,2,12,02_2015
+Image _49,Day (ZT2-ZT10),0,R-F_D_Ob_ZT_00_,Ob_13,2,13,02_2015
+Image _50,Day (ZT2-ZT10),4,R-F_D_Ob_ZT_04_,Ob_14,2,14,02_2015
+Image _51,Day (ZT2-ZT10),8,R-F_D_Ob_ZT_08_,Ob_15,2,15,02_2015
+Image _52,Day (ZT2-ZT10),12,R-F_D_Ob_ZT_12_,Ob_16,2,16,02_2015
+Image _53,Day (ZT2-ZT10),16,R-F_D_Ob_ZT_16_,Ob_17,2,17,02_2015
+Image _54,Day (ZT2-ZT10),20,R-F_D_Ob_ZT_20_,Ob_18,2,18,02_2015
+Image _55,Day (ZT2-ZT10),24,R-F_D_Ob_ZT_24_,Ob_19,2,19,02_2015
+Image _56,Day (ZT2-ZT10),28,R-F_D_Ob_ZT_28_,Ob_20,2,20,02_2015
+Image _57,Day (ZT2-ZT10),32,R-F_D_Ob_ZT_32_,Ob_21,2,21,02_2015
+Image _58,Day (ZT2-ZT10),36,R-F_D_Ob_ZT_36_,Ob_22,2,22,02_2015
+Image _59,Day (ZT2-ZT10),40,R-F_D_Ob_ZT_40_,Ob_23,2,23,02_2015
+Image _60,Day (ZT2-ZT10),44,R-F_D_Ob_ZT_44_,Ob_24,2,24,02_2015
+Image _61,Night (ZT14-ZT22),0,R-F_N_Ob_ZT_00_,Ob_25,2,25,02_2015
+Image _62,Night (ZT14-ZT22),4,R-F_N_Ob_ZT_04_,Ob_26,2,26,02_2015
+Image _63,Night (ZT14-ZT22),8,R-F_N_Ob_ZT_08_,Ob_27,2,27,02_2015
+Image _64,Night (ZT14-ZT22),12,R-F_N_Ob_ZT_12_,Ob_28,2,28,02_2015
+Image _65,Night (ZT14-ZT22),16,R-F_N_Ob_ZT_16_,Ob_29,2,29,02_2015
+Image _66,Night (ZT14-ZT22),20,R-F_N_Ob_ZT_20_,Ob_30,2,30,02_2015
+Image _67,Night (ZT14-ZT22),24,R-F_N_Ob_ZT_24_,Ob_31,2,31,02_2015
+Image _68,Night (ZT14-ZT22),28,R-F_N_Ob_ZT_28_,Ob_32,2,32,02_2015
+Image _69,Night (ZT14-ZT22),32,R-F_N_Ob_ZT_32_,Ob_33,2,33,02_2015
+Image _70,Night (ZT14-ZT22),36,R-F_N_Ob_ZT_36_,Ob_34,2,34,02_2015
+Image _71,Night (ZT14-ZT22),40,R-F_N_Ob_ZT_40_,Ob_35,2,35,02_2015
+Image _72,Night (ZT14-ZT22),44,R-F_N_Ob_ZT_44_,Ob_36,2,36,02_2015
